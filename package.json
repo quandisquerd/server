@@ -1,0 +1,15 @@
+{
+	"type": "commonjs",
+	"name": "server",
+	"version": "1.0.0",
+	"dependencies": {
+		"cors": "^2.8.5",
+		"express": "^4.18.2",
+		"fs": "0.0.1-security",
+		"http": "0.0.1-security",
+		"install": "^0.13.0",
+		"json-server": "^0.17.3",
+		"pg": "^8.5.0",
+		"socket.io": "^4.7.2"
+	}
+}
